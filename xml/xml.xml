@@ -3,80 +3,80 @@
 
 <questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="questions.xsd">
 
-<!-- Preguntas radio-->    
-    <pregunta id="01">
+<!-- questions radio-->    
+    <question id="jklm_001">
         <type>radio</type>
         <title>1. ¿Ser que absorbe la felicidad?</title>
         <option>Patronus</option>
         <option>Dementor</option>
         <option>Boggart</option>
         <answer>2</answer>
-    </pregunta>
+    </question>
 
-    <pregunta id="02">
+    <question id="jklm_002">
         <type>radio</type>
         <title>2. El hechizo protego no sirve para:</title>
         <option>Cruciatus</option>
         <option>Expecto_Patronum</option>
         <option>Legeremens</option>
         <answer>2</answer>
-    </pregunta>
+    </question>
 
-<!-- Preguntas text--> 
-    <pregunta id="03">
+<!-- questions text--> 
+    <question id="jklm_003">
         <type>text</type>
         <title>3. Introduzca la fecha del acuerdo mágico:</title>
         <answer>1845</answer>
 <!--No he mirado cual es la answer correcta, solo es por probar -->
-    </pregunta>
+    </question>
 
-    <pregunta id="04">
+    <question id="jklm_004">
         <type>text</type>
         <title>4. Que pasa si tomas la pocion multijugos:</title>
         <answer>Te Transformas</answer>
-    </pregunta>
+    </question>
 
-<!-- Preguntas checkbox-->
-    <pregunta id="05">
+<!-- questions checkbox-->
+    <question id="jklm_005">
         <type>checkbox</type>
         <title>5. Planta que atrapa a quien está cerca de ella. Le gusta la oscuridad y la humedad</title>
         <option>Mandragora</option>
         <option>Lazo de la muerte</option>
         <option>Escorbuto</option>
         <answer>2</answer>
-    </pregunta>
+    </question>
 
 
-    <pregunta id="06">
+    <question id="jklm_006">
         <type>checkbox</type>
         <title>6. ¿Cuantas son las maldiciones imperdonables?</title>
         <option>Cruciatus</option>
         <option>Expecto_Patronum</option>
         <option>Legeremens</option>
         <answer>2</answer>
-    </pregunta>
+    </question>
 
-<!-- Preguntas select-->
-    <pregunta id="07">
+<!-- questions select-->
+    <question id="jklm_007">
         <type>select</type>
         <title>7. ¿Como se hace llamar el hechizo que hace volar un objeto?</title>
         <option>Cruciatus</option>
         <option>Expecto_Patronum</option>
         <option>Legeremens</option>
         <answer>2</answer>
-    </pregunta>
+    </question>
     
-    <pregunta id="08">
+    <question id="jklm_008">
         <type>select</type>
         <title>8. La voz de las sirenas solo puede ser oida:</title>
         <option>Debajo del agua</option>
         <option>En cualquier sitio</option>
         <option>Por otras sirenas</option>
         <answer>0</answer>
-    </pregunta>
+    </question>
     
-<!-- Preguntas multiple-->
-    <pregunta id="09">
+<!-- questions multiple-->
+    <question id="jklm_009">
         <type>multiple</type>
         <title>9. Que son los Muggles</title>
         <option>Gente no mágica</option>
@@ -85,9 +85,9 @@
         <option>No-Mags</option>
         <answer>0</answer>
         <answer>3</answer>
-    </pregunta>
+    </question>
     
-    <pregunta id="10">
+    <question id="jklm_010">
         <type>multiple</type>
         <title>10. Que se puede crear con magia</title>
         <option>Agua</option>
@@ -95,6 +95,6 @@
         <option>Dinero</option>
         <answer>2</answer>
         <answer>1</answer>
-    </pregunta>
+    </question>
     
 </questions>
