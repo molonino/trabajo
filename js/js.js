@@ -78,7 +78,7 @@ window.onload = function () {
             gestionarXml(this);
         }
     };
-    xhttp.open("GET", "https://rawgit.com/SOSandreu1095/FormularioXML/master/xml/preguntas.xml", true);
+    xhttp.open("GET", "https://raw.githack.com/molonino/trabajo/master/xml/xml.xml", true);
     xhttp.send();
 }
 
