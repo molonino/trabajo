@@ -1,0 +1,98 @@
+<?xml versio="1.0" encoding="UTF-8"?>
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="questions.xsd">
+
+<!-- Preguntas radio-->    
+    <pregunta id="01">
+        <type>radio</type>
+        <title>1. ¿Ser que absorbe la felicidad?</title>
+        <option>Patronus</option>
+        <option>Dementor</option>
+        <option>Boggart</option>
+        <answer>2</answer>
+    </pregunta>
+
+    <pregunta id="02">
+        <type>radio</type>
+        <title>2. El hechizo protego no sirve para:</title>
+        <option>Cruciatus</option>
+        <option>Expecto_Patronum</option>
+        <option>Legeremens</option>
+        <answer>2</answer>
+    </pregunta>
+
+<!-- Preguntas text--> 
+    <pregunta id="03">
+        <type>text</type>
+        <title>3. Introduzca la fecha del acuerdo mágico:</title>
+        <answer>1845</answer>
+<!--No he mirado cual es la answer correcta, solo es por probar -->
+    </pregunta>
+
+    <pregunta id="04">
+        <type>text</type>
+        <title>4. Que pasa si tomas la pocion multijugos:</title>
+        <answer>Te Transformas</answer>
+    </pregunta>
+
+<!-- Preguntas checkbox-->
+    <pregunta id="05">
+        <type>checkbox</type>
+        <title>5. Planta que atrapa a quien está cerca de ella. Le gusta la oscuridad y la humedad</title>
+        <option>Mandragora</option>
+        <option>Lazo de la muerte</option>
+        <option>Escorbuto</option>
+        <answer>2</answer>
+    </pregunta>
+
+
+    <pregunta id="06">
+        <type>checkbox</type>
+        <title>6. ¿Cuantas son las maldiciones imperdonables?</title>
+        <option>Cruciatus</option>
+        <option>Expecto_Patronum</option>
+        <option>Legeremens</option>
+        <answer>2</answer>
+    </pregunta>
+
+<!-- Preguntas select-->
+    <pregunta id="07">
+        <type>select</type>
+        <title>7. ¿Como se hace llamar el hechizo que hace volar un objeto?</title>
+        <option>Cruciatus</option>
+        <option>Expecto_Patronum</option>
+        <option>Legeremens</option>
+        <answer>2</answer>
+    </pregunta>
+    
+    <pregunta id="08">
+        <type>select</type>
+        <title>8. La voz de las sirenas solo puede ser oida:</title>
+        <option>Debajo del agua</option>
+        <option>En cualquier sitio</option>
+        <option>Por otras sirenas</option>
+        <answer>0</answer>
+    </pregunta>
+    
+<!-- Preguntas multiple-->
+    <pregunta id="09">
+        <type>multiple</type>
+        <title>9. Que son los Muggles</title>
+        <option>Gente no mágica</option>
+        <option>Sangre sucia</option>
+        <option>Esclavos</option>
+        <option>No-Mags</option>
+        <answer>0</answer>
+        <answer>3</answer>
+    </pregunta>
+    
+    <pregunta id="10">
+        <type>multiple</type>
+        <title>10. Que se puede crear con magia</title>
+        <option>Agua</option>
+        <option>Luz</option>
+        <option>Dinero</option>
+        <answer>2</answer>
+        <answer>1</answer>
+    </pregunta>
+    
+</questions>
