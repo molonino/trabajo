@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UOG - University Of Games</title>
+    <meta name="description" content="Cosas!">
+    <link rel="icon" type="image/png" href="img/logo.png" />
+    <link rel='stylesheet' media='screen and (min-width: 700px)' href='css/d.css'>
+    <link href="https://fonts.googleapis.com/css?family=Aldrich" rel="stylesheet">
+    <script type="text/javascript" src="js.js"></script>
+
+</head>
+
+<body>
+    <div id="header">
+        <img id="logo1" src="img/logo.png" alt="Logo img">
+        <img id="logo2" src="img/logo.png" alt="Logo img">
+        <h2>Harry potter</h2>
+    </div>
+    <p id="timer">TIEMPO RESTANTE: <span id="temp">180</span> SEGUNDOS</p>
+
+    <div id="intro">
+        <ul class="listIntro">
+            <li id="historia">HISTORIA</li>
+            <li id="normas">NORMAS</li>
+        </ul>
+        <h2 id="tInt">Clases de magia</h2>
+        <p id="pHistoria">
+            Lorem ipsum
+        </p>
+        <ul id="lNormas">
+            <li>El test consta de 10 preguntas<br></li>
+            <li>3 tipos distintos de preguntas
+                <ul id="tipos">
+                    <li>5 Radio: Hay una unica opcion correcta</li>
+                    <li>3 Texto: Debes escribir la solucion</li>
+                    <li>2 Checkbox: Hay 1 o mas opciones correctas</li>
+                </ul>
+            </li>
+            <li>Para aprobar es necesario un 5 minimo<br></li>
+            <li>El tiempo minimo para realizar el test es de 3 minutos<br></li>
+            <li>Al acabar el tiempo se corregir?automaicamente<br></li>
+            <li>Las preguntas contestadas cuya respuesta sea incorrecta, restan</li>
+        </ul>
+        <div id="start">REALIZAR TEST</div>
+    </div>
+    <div id="quest">
+        <form>
+            <!-- Radio -->
+            <div class="all">
+                <h3 id="q1">1</h3>
+                <div id="radioDiv1"></div>
+            </div>
+
+            <div class="all">
+                <h3 id="q2">2</h3>
+                <div id="radioDiv2"></div>
+            </div>
+            
+            <div class="all">
+                <h3 id="q3">3</h3>
+                <div id="radioDiv3"></div>
+            </div>
+            
+            <div class="all">
+                <h3 id="q4">4</h3>
+                <div id="radioDiv4"></div>
+            </div>
+            
+            <div class="all">
+                <h3 id="q5">5</h3>
+                <div id="radioDiv5"></div>
+            </div>
+
+            <!-- Checkbox -->
+            <div class="all">
+                <h3 id="q6">6</h3>
+                <div id="checkBoxDiv1"></div>
+            </div>
+
+            <div class="all">
+                <h3 id="q7">7</h3>
+                <div id="checkBoxDiv2"></div>
+            </div>
+
+            <!-- Text -->
+            <div class="all">
+                <h3 id="q8">8</h3>
+                <input type='text' id="text1">
+            </div>
+
+            <div class="all">
+                <h3 id="q9">9</h3>
+                <input type='text' id="text2">
+            </div>
+            
+            <div class="all">
+                <h3 id="q10">10</h3>
+                <input type='text' id="text3">
+            </div>
+
+            <input id="butCorregir" type='submit' value="CORREGIR">
+            <input id="butRegresar" type="button" value="REGRESAR">
+        </form>
+    </div>
+
+    <div id="resultados"></div>
+</body>
+
+</html>

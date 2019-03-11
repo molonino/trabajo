@@ -1,0 +1,87 @@
+<?xml versio="1.0" encoding="UTF-8"?>
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="questions.xsd">
+    
+<!--Preguntas radio-->
+<question id="jklm_001">
+    <type>radio</type>
+    <title>1. ¿Ser que absorbe la felicidad?</title>
+    <opcion>Patronus</opcion>
+    <opcion>Dementor</opcion>
+    <opcion>Boggart</opcion>
+    <answer>2</answer>
+</question>
+    
+<question id="jklm_002">
+    <title>2. Planta que atrapa a quien está cerca de ella. Le gusta la oscuridad y la humedad</title>
+    <opcion>Mandragora</opcion>
+    <opcion>Lazo de la muerte</opcion>
+    <opcion>Escorbuto</opcion>
+    <answer>2</answer>
+</question>
+
+<question id="jklm_003">
+    <type>radio</type>
+    <title>3. Que son los Muggles</title>
+    <opcion>Gente no mágica</opcion>
+    <opcion>Sangre sucia</opcion>
+    <opcion>Esclavos</opcion>
+    <answer>1</answer>
+</question>
+
+<question id="jklm_004">
+    <type>radio</type>
+    <title>4. Que se puede crear con magia</title>
+    <opcion>Tierra</opcion>
+    <opcion>Luz</opcion>
+    <opcion>Dinero</opcion>
+    <answer>2</answer>
+</question>
+
+<question id="jklm_005"> 
+    <type>radio</type>
+    <title>5. ¿Cuantas son las maldiciones imperdonables?</title>
+    <opcion>Cruciatus</opcion>
+    <opcion>Expecto_Patronum</opcion>
+    <opcion>Legeremens</opcion>
+    <answer>2</answer>
+</question>
+
+<!-- checkbox -->
+<question id="jklm_006">
+    <type>checbox</type>
+    <title>6. El hechizo protego no sirve para:</title>
+    <opcion>Cruciatus</opcion>
+    <opcion>Expecto_Patronum</opcion>
+    <opcion>Legeremens</opcion>
+    <answer>2</answer>
+</question>
+
+<question id="jklm_007">
+    <type>checkbox</type>
+    <title>7. ¿Como se hace llamar el hechizo que hace volar un objeto?</title>
+    <opcion>Cruciatus</opcion>
+    <opcion>Expecto_Patronum</opcion>
+    <opcion>Legeremens</opcion>
+    <answer>2</answer>
+</question>
+ 
+<!-- TEXT -->
+<question id="jklm_008">
+    <type>text</type>
+    <title>8. La voz de las sirenas solo puede ser oida:</title>
+    <answer>Debajo del agua</answer>
+</question>
+    
+<question id="jklm_009">
+    <type>text</type>
+    <title>9. Introduzca la fecha del acuerdo mágico:</title>
+    <answer>1945</answer>
+</question>
+    
+<question id="jklm_010">
+    <type>text</type>
+    <title>10. Explique brevemente para que sirve la pocion multijugos:</title>
+    <answer>Cambiar de persona</answer>
+</question>
+</questions>
