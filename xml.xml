@@ -24,26 +24,26 @@ xsi:noNamespaceSchemaLocation="questions.xsd">
     <type>radio</type>
     <title>3. Que son los Muggles</title>
     <option>Gente no mágica</option>
-    <opcion>Sangre sucia</opcion>
-    <opcion>Esclavos</opcion>
+    <option>Sangre sucia</option>
+    <option>Esclavos</option>
     <answer>1</answer>
 </question>
 
 <question id="jklm_004">
     <type>radio</type>
     <title>4. Que se puede crear con magia</title>
-    <opcion>Tierra</opcion>
-    <opcion>Luz</opcion>
-    <opcion>Dinero</opcion>
+    <option>Tierra</option>
+    <option>Luz</option>
+    <option>Dinero</option>
     <answer>2</answer>
 </question>
 
 <question id="jklm_005"> 
     <type>radio</type>
     <title>5. ¿Cuantas son las maldiciones imperdonables?</title>
-    <opcion>Cruciatus</opcion>
-    <opcion>Expecto_Patronum</opcion>
-    <opcion>Legeremens</opcion>
+    <option>Cruciatus</option>
+    <option>Expecto_Patronum</option>
+    <option>Legeremens</option>
     <answer>2</answer>
 </question>
 
@@ -51,18 +51,18 @@ xsi:noNamespaceSchemaLocation="questions.xsd">
 <question id="jklm_006">
     <type>checbox</type>
     <title>6. El hechizo protego no sirve para:</title>
-    <opcion>Cruciatus</opcion>
-    <opcion>Expecto_Patronum</opcion>
-    <opcion>Legeremens</opcion>
+    <option>Cruciatus</option>
+    <option>Expecto_Patronum</option>
+    <option>Legeremens</option>
     <answer>2</answer>
 </question>
 
 <question id="jklm_007">
     <type>checkbox</type>
     <title>7. ¿Como se hace llamar el hechizo que hace volar un objeto?</title>
-    <opcion>Cruciatus</opcion>
-    <opcion>Expecto_Patronum</opcion>
-    <opcion>Legeremens</opcion>
+    <option>Cruciatus</option>
+    <option>Expecto_Patronum</option>
+    <option>Legeremens</option>
     <answer>2</answer>
 </question>
  
