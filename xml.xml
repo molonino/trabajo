@@ -6,24 +6,24 @@ xsi:noNamespaceSchemaLocation="questions.xsd">
 <question id="jklm_001">
     <type>radio</type>
     <title>1. ¿Ser que absorbe la felicidad?</title>
-    <opcion>Patronus</opcion>
-    <opcion>Dementor</opcion>
-    <opcion>Boggart</opcion>
+    <option>Patronus</option>
+    <option>Dementor</option>
+    <option>Boggart</option>
     <answer>2</answer>
 </question>
     
 <question id="jklm_002">
     <title>2. Planta que atrapa a quien está cerca de ella. Le gusta la oscuridad y la humedad</title>
-    <opcion>Mandragora</opcion>
-    <opcion>Lazo de la muerte</opcion>
-    <opcion>Escorbuto</opcion>
+    <option>Mandragora</option>
+    <option>Lazo de la muerte</option>
+    <option>Escorbuto</option>
     <answer>2</answer>
 </question>
 
 <question id="jklm_003">
     <type>radio</type>
     <title>3. Que son los Muggles</title>
-    <opcion>Gente no mágica</opcion>
+    <option>Gente no mágica</option>
     <opcion>Sangre sucia</opcion>
     <opcion>Esclavos</opcion>
     <answer>1</answer>
